@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherAware</string>
+    <string name="yandex_weather_base_url">https://api.weather.yandex.ru/v1/</string>
+    <string name="yandex_geocoder_base_url">https://geocode-maps.yandex.ru/</string>
+</resources>
